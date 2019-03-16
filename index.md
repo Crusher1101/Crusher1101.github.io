@@ -20,9 +20,9 @@ This role is for a gameplay developer, the position would be to work in a team o
 
 ## Personal Profile
 
-### Myer-Briggs test
+### Myers-Briggs test
 
-<img src="\Myer-Briggs test.png">
+<img src="\Myers-Briggs test.png">
 
 ### Online learnign style test
 
