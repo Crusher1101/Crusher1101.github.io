@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Alex Ilijev's Profile
 
-You can use the [editor on GitHub](https://github.com/Crusher1101/Crusher1101.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Student ID: s3778304
+Email: s3778304@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+I’m 25 and live in Queensland, Australia. I only finished year 11 at high school as I went and started a carpentry apprenticeship. Unfortunately, I got 3 years into said apprenticeship and due to a downturn in the industry, I was unable to complete it. English is my only spoken language and my biggest hobby is playing video games.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interest in IT
 
-```markdown
-Syntax highlighted code block
+My interest in IT stems from when I was young and I have always found peace and enjoyment in playing games. As I have gotten older my interest has only grown, seeing how the technology has developed over the years in gaming and seeing things that would only of been dreamed of become reality. My experience in IT is very limited, having only the skills I have figured out myself. I choose to come to RMIT as I decided I wanted to learn something I was interested in and try to make a career choice that I feel I will enjoy. I expect to learn the fundamentals of IT and gain the skill to start a new career path.
 
-# Header 1
-## Header 2
-### Header 3
+### Ideal job
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Crusher1101/Crusher1101.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Job ad] (https://github.com/Crusher1101/Crusher1101.github.io/blob/master/Ideal%20Job%20Add.png)
