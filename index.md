@@ -13,4 +13,4 @@ My interest in IT stems from when I was young and I have always found peace and 
 
 ### Ideal job
 
-![Job ad] (https://github.com/Crusher1101/Crusher1101.github.io/blob/master/Ideal%20Job%20Add.png)
+![Job ad] (https://github.com/Ideal Job Add.png)
